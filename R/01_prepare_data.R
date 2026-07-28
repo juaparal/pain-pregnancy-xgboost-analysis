@@ -6,7 +6,7 @@
 # ==============================================================================
 
 SEED <- 123L
-DEFAULT_DATA_FILE <- "data/BASE DATOS CROSS SECTIONAL_juan_RV Fran.xlsx"
+DEFAULT_DATA_FILE <- "data/pain-pregnancy_dataset.xlsx"
 
 required_packages <- c("readxl", "dplyr", "tibble")
 missing_packages <- required_packages[
