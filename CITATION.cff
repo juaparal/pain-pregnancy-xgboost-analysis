@@ -3,9 +3,9 @@ message: "Please cite this software and the associated article."
 title: "Pain intensity analyses and XGBoost classification in pregnancy"
 type: software
 authors:
-  - family-names: "REPLACE_WITH_FAMILY_NAME"
-    given-names: "REPLACE_WITH_GIVEN_NAME"
-    orcid: "https://orcid.org/REPLACE_WITH_ORCID"
+  - family-names: "Pardo"
+    given-names: "Juan"
+    orcid: "https://orcid.org/0000-0003-4184-9855D"
 repository-code: "https://github.com/juaparal/pain-pregnancy-xgboost-analysis"
 license: MIT
 version: "1.0.0"
