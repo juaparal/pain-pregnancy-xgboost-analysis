@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "Please cite this software and the associated article."
-title: "Pain intensity analyses and XGBoost classification in pregnancy"
+title: "BIOPSYCHOSOCIAL FACTORS PREDICTIVE OF LOW BACK PAIN INTENSITY IN PREGNANT WOMEN: A MULTIDIMENSIONAL CASE-CONTROLLED STUDY"
 type: software
 authors:
   - family-names: "Pardo"
