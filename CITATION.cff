@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite this software and the associated article."
+title: "Pain intensity analyses and XGBoost classification in pregnancy"
+type: software
+authors:
+  - family-names: "REPLACE_WITH_FAMILY_NAME"
+    given-names: "REPLACE_WITH_GIVEN_NAME"
+    orcid: "https://orcid.org/REPLACE_WITH_ORCID"
+repository-code: "https://github.com/juaparal/pain-pregnancy-xgboost-analysis"
+license: MIT
+version: "1.0.0"
+date-released: "REPLACE_WITH_YYYY-MM-DD"
+abstract: >
+  R code for data preparation, descriptive statistics, non-parametric group
+  comparisons, manuscript figure generation, and XGBoost classification.
+keywords:
+  - R
+  - XGBoost
+  - pain intensity
+  - pregnancy
+  - machine learning
