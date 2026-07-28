@@ -8,7 +8,7 @@ args <- commandArgs(trailingOnly = TRUE)
 data_file <- if (length(args) >= 1L) {
   args[[1L]]
 } else {
-  "data/BASE DATOS CROSS SECTIONAL_juan_RV Fran.xlsx"
+  "data/pain-pregnancy_dataset.xlsx"
 }
 
 status_prepare <- system2(
