@@ -5,7 +5,7 @@ Place the authorised participant-level Excel dataset in this directory when runn
 Expected default filename:
 
 ```text
-BASE DATOS CROSS SECTIONAL_juan_RV Fran.xlsx
+pain-pregnancy_dataset.xlsx
 ```
 
 The dataset is intentionally excluded from GitHub and Zenodo. Do not remove the data-file rules from `.gitignore`.
