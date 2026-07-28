@@ -9,7 +9,7 @@ authors:
 repository-code: "https://github.com/juaparal/pain-pregnancy-xgboost-analysis"
 license: MIT
 version: "1.0.0"
-date-released: "REPLACE_WITH_YYYY-MM-DD"
+date-released: "2026-07-28"
 abstract: >
   R code for data preparation, descriptive statistics, non-parametric group
   comparisons, manuscript figure generation, and XGBoost classification.
