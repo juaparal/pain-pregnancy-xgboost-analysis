@@ -38,7 +38,7 @@ The participant-level dataset is **not included** in this repository because it 
 Place an authorised copy of the Excel file in the `data/` directory using the following filename:
 
 ```text
-BASE DATOS CROSS SECTIONAL_juan_RV Fran.xlsx
+pain-pregnancy_dataset.xlsx
 ```
 
 The `.gitignore` file prevents Excel and CSV data files from being committed accidentally. Nevertheless, always inspect the files listed by Git before every commit.
