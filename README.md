@@ -124,7 +124,7 @@ Generated results are excluded from version control by default. The exact output
 Suggested manuscript wording:
 
 > **Code availability**  
-> The R code used for data preparation, descriptive analyses, non-parametric group comparisons, figure generation, predictive modelling, model evaluation, ROC analysis, and variable-importance analysis is publicly available at [GITHUB REPOSITORY URL]. The version corresponding to the published article is permanently archived in Zenodo at [ZENODO DOI]. Participant-level data are not included because of privacy and ethical restrictions.
+> The R code used for data preparation, descriptive analyses, non-parametric group comparisons, figure generation, predictive modelling, model evaluation, ROC analysis, and variable-importance analysis is publicly available at [https://github.com/juaparal/pain-pregnancy-xgboost-analysis]. The version corresponding to the published article is permanently archived in Zenodo at [ZENODO DOI]. Participant-level data are not included because of privacy and ethical restrictions.
 
 ## Archiving with Zenodo
 
