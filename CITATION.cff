@@ -1,30 +1,33 @@
 cff-version: 1.2.0
-message: "Please cite this software if you use it in your research."
 
-title: "BIOPSYCHOSOCIAL FACTORS PREDICTIVE OF LOW BACK PAIN INTENSITY IN PREGNANT WOMEN: A MULTIDIMENSIONAL CASE-CONTROLLED STUDY"
+message: "If you use this software, please cite it as follows."
+
+title: "R code for BIOPSYCHOSOCIAL FACTORS ASSOCIATED WITH LUMBOPELVIC PAIN INTENSITY DURING PREGNANCY"
 
 type: software
 
 authors:
   - family-names: "Pardo"
     given-names: "Juan"
-orcid: "https://orcid.org/0000-0003-4184-9855"
+    orcid: "https://orcid.org/0000-0003-4184-9855"
 
 repository-code: "https://github.com/juaparal/pain-pregnancy-xgboost-analysis"
 url: "https://github.com/juaparal/pain-pregnancy-xgboost-analysis"
 
 license: MIT
+
 version: "1.0.0"
-date-released: "2026-07-28"
 
 abstract: >
-  R code for data preparation, descriptive statistics, non-parametric group
-  comparisons, manuscript figure generation, and XGBoost classification
-  associated with a manuscript under review.
+  R code for data preparation, descriptive statistical analyses,
+  manuscript figure generation, and XGBoost-based machine learning
+  associated with the manuscript "BIOPSYCHOSOCIAL FACTORS ASSOCIATED
+  WITH LUMBOPELVIC PAIN INTENSITY DURING PREGNANCY".
 
 keywords:
   - R
   - XGBoost
-  - pain intensity
-  - pregnancy
-  - machine learning
+  - Machine Learning
+  - Pregnancy
+  - Lumbo-pelvic pain
+  - Biopsychosocial factors
