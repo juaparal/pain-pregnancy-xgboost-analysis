@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 
-message: "If you use this software, please cite it as follows."
+message: "If you use this software, please cite the associated Scientific Reports article."
 
-title: "R code for BIOPSYCHOSOCIAL FACTORS ASSOCIATED WITH LUMBOPELVIC PAIN INTENSITY DURING PREGNANCY"
+title: "R code for Biopsychosocial factors associated with lumbopelvic pain intensity during pregnancy"
 
 type: software
 
@@ -15,19 +15,48 @@ repository-code: "https://github.com/juaparal/pain-pregnancy-xgboost-analysis"
 url: "https://github.com/juaparal/pain-pregnancy-xgboost-analysis"
 
 license: MIT
-
-version: "1.0.0"
+version: "1.1.0"
 
 abstract: >
-  R code for data preparation, descriptive statistical analyses,
-  manuscript figure generation, and XGBoost-based machine learning
-  associated with the manuscript "BIOPSYCHOSOCIAL FACTORS ASSOCIATED
-  WITH LUMBOPELVIC PAIN INTENSITY DURING PREGNANCY".
+  R code for data preparation, statistical analyses, figure generation,
+  and XGBoost-based machine-learning analysis associated with the
+  Scientific Reports article "Biopsychosocial factors associated with
+  lumbopelvic pain intensity during pregnancy".
 
 keywords:
   - R
   - XGBoost
-  - Machine Learning
-  - Pregnancy
-  - Lumbo-pelvic pain
-  - Biopsychosocial factors
+  - machine learning
+  - pregnancy
+  - lumbopelvic pain
+  - biopsychosocial factors
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Ferrer-Sargues"
+      given-names: "Francisco José"
+    - family-names: "García-Lucas"
+      given-names: "Celia"
+    - family-names: "Pardo"
+      given-names: "Juan"
+      orcid: "https://orcid.org/0000-0003-4184-9855"
+    - family-names: "Serrano-Raya"
+      given-names: "Lola"
+    - family-names: "Ibañez-Meca"
+      given-names: "Natalia"
+    - family-names: "Suso-Martí"
+      given-names: "Luis"
+    - family-names: "Arguisuelas"
+      given-names: "Maria Dolores"
+    - family-names: "Lisón"
+      given-names: "Juan Francisco"
+    - family-names: "Amer-Cuenca"
+      given-names: "Juan J."
+    - family-names: "Biviá-Roig"
+      given-names: "Gemma"
+
+  title: "Biopsychosocial factors associated with lumbopelvic pain intensity during pregnancy"
+  journal: "Scientific Reports"
+  year: 2026
+  doi: "10.1038/s41598-026-71417-1"
