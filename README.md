@@ -1,3 +1,18 @@
+# Biopsychosocial factors associated with lumbopelvic pain intensity during pregnancy
+
+This repository contains the R code used for data preparation,
+statistical analyses, figure generation, and XGBoost-based machine-learning
+analysis associated with the following published article:
+
+Ferrer-Sargues FJ, García-Lucas C, Pardo J, Serrano-Raya L,
+Ibañez-Meca N, Suso-Martí L, Arguisuelas MD, Lisón JF,
+Amer-Cuenca JJ, Biviá-Roig G.
+
+**Biopsychosocial factors associated with lumbopelvic pain intensity
+during pregnancy.** Scientific Reports. 2026.
+
+DOI: https://doi.org/10.1038/s41598-026-71417-1
+
 # Pain intensity analyses and XGBoost classification in pregnancy
 
 This repository contains the R code used for the descriptive analyses, non-parametric group comparisons, manuscript figures, and XGBoost classification model associated with a **Scientific Reports** manuscript.
@@ -137,7 +152,14 @@ Suggested manuscript wording:
 
 ## Citation
 
-Please cite both the associated article and the archived software release.
+If you use this code, please cite the associated article:
+
+Ferrer-Sargues FJ, García-Lucas C, Pardo J, Serrano-Raya L,
+Ibañez-Meca N, Suso-Martí L, Arguisuelas MD, Lisón JF,
+Amer-Cuenca JJ, Biviá-Roig G. Biopsychosocial factors associated
+with lumbopelvic pain intensity during pregnancy.
+Scientific Reports. 2026.
+https://doi.org/10.1038/s41598-026-71417-1
 
 ## License
 
